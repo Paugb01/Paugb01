@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying my **master's course in data science and engineering**
 
-- 🌱 I’m currently learning **Google cloud platform tools**
+- 🌱 I’m currently learning **Google cloud platform tools on streaming data processing and ingestion**
 
 - 👨‍💻 All of my projects are available at [https://github.com/urtubia01?tab=repositories](https://github.com/urtubia01?tab=repositories)
 
