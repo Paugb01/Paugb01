@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Google cloud platform tools on streaming data processing and ingestion**
 
-- 👨‍💻 All of my projects are available at [https://github.com/urtubia01?tab=repositories](https://github.com/urtubia01?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/Paugb01
 
 - 📫 How to reach me **paugarciabardisa@icloud.com**
 
