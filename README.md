@@ -12,6 +12,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/paugb/](https://www.linkedin.com/in/paugb/)
 
 - ⚡ Fun fact **I am a musician and a freak of economics, maths and strategic behaviour**
+  
+- ♟️ Moreover, my grandfather passed on to me **great love for chess** I play at least one game a day. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
