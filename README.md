@@ -13,7 +13,9 @@
 
 - ⚡ Fun fact **I am a musician and a freak of economics, maths and strategic behaviour**
   
-- ♟️ Moreover, my grandfather passed on to me **great love for chess** I play at least one game a day. 
+- ♟️ Moreover, I play at least one **chess game** a day.
+  
+- 🎹 I am a **pianist**, I also play it everyday.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
