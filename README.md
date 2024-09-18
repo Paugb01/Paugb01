@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pau Garcia</h1>
 <h3 align="center">A passionate economist, data engineer and developer from Spain</h3>
 
-- 🔭 I’m studied a **master's course specialisation in Big Data and AI**
+- 🔭 I studied a **master's course specialisation in Big Data and AI**
 
-- 🌱 I’m recently achieved the **Associate Google Cloud Engineer Certification** 
+- 🌱 I recently achieved the **Associate Google Cloud Engineer Certification** 
 
 - 👨‍💻 All of my projects are available at https://github.com/Paugb01
 
